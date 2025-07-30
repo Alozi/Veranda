@@ -1,5 +1,5 @@
 # Veranda
-Website for the test task.
 
+Landing page for the test task.
 
 ![alt text](screencapture.png)
